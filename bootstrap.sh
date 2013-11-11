@@ -6,9 +6,6 @@
 # This script bootstraps a new Ubuntu 12.04 server with latest Puppet from Puppet Labs's apt source.     #
 # You almost certainly want to run this with sudo, otherwise it's going to fail with errors.             #
 #                                                                                                        #
-# Note: one side effect of this script that may not be desireable is it will also upgrade your packages. #
-#  If this is something you don't want, comment that bit out.                                            #
-#                                                                                                        #
 # v0.1 - Initial version (11/11/2013)                                                                    #
  ########################################################################################################   
 
